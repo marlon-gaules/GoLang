@@ -32,5 +32,4 @@ func main() {
 	} else {
 		fmt.Printf("%d é impar", number)
 	}
-
 }
